@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: Tailscale (https+insecure) add-on repository
+url: "https://github.com/n0nk/app-tailscale/"
+maintainer: NoNick Known <NoNick@kno.wn>
